@@ -1,4 +1,3 @@
 <h1 class="coolheader">Select language</h1>
 
-[English](https://anarchomedia.github.io/AnarchoPedia/en/Main_Page) • [Español](https://anarchomedia.github.io/AnarchoPedia/es/Main_Page)
-
+[English](https://anarchomedia.github.io/AnarchoPedia/Main_Page) • [Español](https://anarchomedia.github.io/AnarchoPedia/es/Main_Page) • [Português](https://anarchomedia.github.io/AnarchoPedia/pt/Main_Page) • [Français](https://anarchomedia.github.io/AnarchoPedia/fr/Main_Page) • [Deutsch](https://anarchomedia.github.io/AnarchoPedia/de/Main_Page) • [Nederlands](https://anarchomedia.github.io/AnarchoPedia/nl/Main_Page) • [Polski](https://anarchomedia.github.io/AnarchoPedia/pl/Main_Page) • [Ελληνικά](https://anarchomedia.github.io/AnarchoPedia/el/Main_Page) • [Ελληνικά](https://anarchomedia.github.io/AnarchoPedia/el/Main_Page) • [Türkçe](https://anarchomedia.github.io/AnarchoPedia/tr/Main_Page) • [čeština](https://anarchomedia.github.io/AnarchoPedia/cs/Main_Page)
