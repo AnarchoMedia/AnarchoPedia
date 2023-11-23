@@ -1,4 +1,4 @@
-# Cambio Climático
+# Cambio climático
 
 El cambio climático es uno de los problemas ambientales más graves del mundo y del ser humano de la cual tendra repercusiones catastróficas y meteorologicas
 
